@@ -1,9 +1,9 @@
 {
 	"name": "mystic-moonshadow",
-	"displayName": "Mystic Moonshadow Theme",
-	"description": "The Mystic Moonshadow Theme: An enchanting blend of deep purples and velvety blues, bringing a captivating and magical atmosphere to your coding experience in VS Code.",
+	"displayName": "Mystic MoonShadow Theme",
+	"description": "The Mystic MoonShadow Theme: An enchanting blend of deep purples and velvety blues, bringing a captivating and magical atmosphere to your coding experience in VS Code.",
 	"publisher": "TechArtem",
-	"version": "1.0.2",
+	"version": "1.0.5",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
@@ -20,7 +20,7 @@
 		"name": "Artem Chumachenko"
 	},
 	"repository": {
-		"url": "https://github.com/rabbitarts/",
+		"url": "https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme",
 		"type": "git"
 	},
 	"galleryBanner": {
@@ -34,9 +34,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Moonshadow Dark",
+				"label": "MoonShadow Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Blissful-Breeze.json"
+			},
+			{
+				"label": "Mystic MoonShadow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Mystic-MoonShadow.json"
 			}
 		]
 	}
