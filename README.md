@@ -8,11 +8,11 @@ Welcome to the **Mystic Moonshadow Theme** - is an elegant theme specially creat
 
 # MoonShadow Dark
 
-    ![Mystic Moonshadow Theme](https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme/blob/main/assets/theme%20best.png?raw=true)
+![Mystic Moonshadow Theme](https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme/blob/main/assets/theme%20best.png?raw=true)
 
 # Mystic MoonShadow
 
-    ![Mystic Moonshadow Theme](https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme/blob/main/assets/theme.png?raw=true)
+![Mystic Moonshadow Theme](https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme/blob/main/assets/theme.png?raw=true)
 
 ## Introduction
 
