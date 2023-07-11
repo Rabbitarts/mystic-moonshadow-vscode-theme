@@ -1,6 +1,6 @@
 # Mystic Moonshadow Theme for VSCode
 
-![Mystic Moonshadow Theme](https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme/blob/main/assets/tsx.png?raw=true)
+![Mystic Moonshadow Theme](https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme/blob/main/assets/theme%20best.png?raw=true)
 
 Welcome to the **Mystic Moonshadow Theme** - is an elegant theme specially created for VSCode.
 
@@ -8,11 +8,11 @@ Welcome to the **Mystic Moonshadow Theme** - is an elegant theme specially creat
 
 # MoonShadow Dark
 
-	https://raw.githubusercontent.com/Rabbitarts/mystic-moonshadow-vscode-theme/1a6739d28f959a9a8f91fcccd83e9fcedb49b10d/assets/theme.svg
+    ![Mystic Moonshadow Theme](https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme/blob/main/assets/theme%20best.png?raw=true)
 
 # Mystic MoonShadow
 
-	https://raw.githubusercontent.com/Rabbitarts/mystic-moonshadow-vscode-theme/1a6739d28f959a9a8f91fcccd83e9fcedb49b10d/assets/theme-2.svg
+    ![Mystic Moonshadow Theme](https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme/blob/main/assets/theme.png?raw=true)
 
 ## Introduction
 

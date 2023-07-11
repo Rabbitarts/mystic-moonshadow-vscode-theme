@@ -3,7 +3,7 @@
 	"displayName": "Mystic MoonShadow Theme",
 	"description": "The Mystic MoonShadow Theme: An enchanting blend of deep purples and velvety blues, bringing a captivating and magical atmosphere to your coding experience in VS Code.",
 	"publisher": "TechArtem",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
