@@ -6,17 +6,13 @@ Welcome to the **Mystic Moonshadow Theme** - is an elegant theme specially creat
 
 # screens
 
-**.tsx:**
-![Mystic Moonshadow Theme](https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme/blob/main/assets/tsx.png?raw=true)
+# MoonShadow Dark
 
-**.scss:**
-![Mystic Moonshadow Theme](https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme/blob/main/assets/sass.png?raw=true)
+	https://raw.githubusercontent.com/Rabbitarts/mystic-moonshadow-vscode-theme/1a6739d28f959a9a8f91fcccd83e9fcedb49b10d/assets/theme.svg
 
-**.Html:**
-![Mystic Moonshadow Theme](https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme/blob/main/assets/html.png?raw=true)
+# Mystic MoonShadow
 
-**.json**
-![Mystic Moonshadow Theme](https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme/blob/main/assets/json.png?raw=true)
+	https://raw.githubusercontent.com/Rabbitarts/mystic-moonshadow-vscode-theme/1a6739d28f959a9a8f91fcccd83e9fcedb49b10d/assets/theme-2.svg
 
 ## Introduction
 
