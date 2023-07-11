@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![release](https://img.shields.io/github/release/RabbitArts/Andromeda.svg?style=for-the-badge&logo=github&logoColor=white&colorA=2b303b&colorB=00e8c6)](https://github.com/EliverLara/Andromeda/releases/latest)
+[![release](https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme/blob/main/icon.png?style=for-the-badge&logo=github&logoColor=white&colorA=2b303b&colorB=00e8c6)](https://github.com/Rabbitarts/mystic-moonshadow-vscode-theme/releases/tag/untagged-7b933d98a7da0d3b113c)
 
 [![vscode](https://img.shields.io/badge/VS_Code-v1.26+-373277.svg?style=for-the-badge&logo=microsoft&logoColor=white&colorA=2b303b&colorB=7cb7ff)](https://code.visualstudio.com/updates/v1_26)
 [![downloads](https://img.shields.io/visual-studio-marketplace/d/TechArtem.mystic-moonshadow?style=for-the-badge&logo=docusign&logoColor=white&colorA=2b303b&colorB=96E072)](https://marketplace.visualstudio.com/items?itemName=TechArtem.mystic-moonshadow)
-[![rating](https://img.shields.io/visual-studio-marketplace/stars/mystic-moonshadow?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=FFE66D)](https://marketplace.visualstudio.com/items?itemName=mystic-moonshadow)
+[![rating](https://img.shields.io/visual-studio-marketplace/stars/TechArtem.mystic-moonshadow?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=FFE66D)](https://marketplace.visualstudio.com/items?itemName=mystic-moonshadow)
 
 </div>
 
